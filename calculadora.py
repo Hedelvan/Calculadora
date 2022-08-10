@@ -24,6 +24,7 @@ def calculate():
         print(number_1/number_2)
     else:
         print('You have not typed a valid operator, please run the program')
+    again()
 
 def again():
     calc_again = input('''
