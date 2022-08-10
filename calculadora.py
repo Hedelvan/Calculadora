@@ -1,10 +1,10 @@
 def calculate():
     operation = input('''
-    Please type in the math operation you would like to complete:
-    + for addition
-    - for subtracion
-    * for multiplication
-    / for division
+Please type in the math operation you would like to complete:
++ for addition
+- for subtracion
+* for multiplication
+/ for division
     ''')
 
     number_1 = int(input('Enter your first number: '))
